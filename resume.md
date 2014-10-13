@@ -5,7 +5,7 @@ Steven Spohn Resume
 Interests
 ---------
 
-*   Working with Databases.
+*   Working with Databases and servers.
 
 
 Work Experience
@@ -26,20 +26,20 @@ Education
 
 *   **Georgia Gwinnett College** (Lawrenceville, GA)
 
-    B.S. in Information Technology, December 2014 (Exepected Graduation Month)
+    B.S. in Information Technology, December 2014 (Expected Graduation Month)
 
 
 Skills
 ------
 
-*   Very Experienced with:
+*   **Very Experienced with:**
 
     -   Microsoft Office Suite
     -   Microsoft Windows 7 & XP
     -   Computer Hardware
     
     
-*   Familiar with:
+*   **Familiar with:**
 
     -   Oracle SQL
     -   LINUX (UNIX)
