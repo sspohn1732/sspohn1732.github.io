@@ -41,6 +41,7 @@ Skills
     
 *   Familiar with:
 
+    -   Oracle SQL
     -   LINUX (UNIX)
     -   System Administration
     -   Object-Oriented Concepts
